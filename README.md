@@ -1,5 +1,7 @@
 # German Credit Risk Prediction Streamlit App
 
+[![Python CI/CD with Docker](https://github.com/zwxgrace/Credit_pred_streamlitAPP/actions/workflows/python-app.yml/badge.svg?branch=master)](https://github.com/zwxgrace/Credit_pred_streamlitAPP/actions/workflows/python-app.yml)
+
 📊 This project is a Streamlit web application that predicts credit risk using a **CatBoost** classifier. It allows interactive exploration of features, model evaluation, and risk prediction for custom inputs or specific test set records. The app is fully containerized with Docker and comes with unit tests and CI/CD setup.
 
 ---
