@@ -1,6 +1,6 @@
 name: Python CI/CD with Docker
 
-# Trigger workflow on push or pull request to main branch
+# Trigger workflow on push or pull request to main(master) branch
 on:
   push:
     branches: [ master ]
